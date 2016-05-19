@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[EgyptAir Flight 804]]></title>
         <description><![CDATA[EgyptAir Flight 804]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/egyptair-flight-804/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 06:48:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 06:54:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/egyptair-flight-804/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EgyptAir Flight 804 vanishes off radar with 66 people aboard]]></title>
+            <description><![CDATA[<article><h1>EgyptAir Flight 804 vanishes off radar with 66 people aboard</h1><p>http://www.cnn.com/2016/05/18/middleeast/egyptair-flight-disappears/index.html</p></article>]]></description>
+            <link>https://thegrid.ai/egyptair-flight-804/egyptair-flight-804-vanishes-off-radar-with-66-people-aboard/index.html</link>
+            <guid isPermaLink="false">708db82e-6641-467a-a941-899c52cb9bc2</guid>
+            <pubDate>Thu, 19 May 2016 06:54:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EgyptAir Flight MS804 from Paris to Cairo 'disappears from radar']]></title>
             <description><![CDATA[<article><h1>EgyptAir Flight MS804 from Paris to Cairo 'disappears from radar'</h1><p>http://www.bbc.com/news/world-middle-east-36309492</p></article>]]></description>
-            <link>undefinedegyptair-flight-ms804-from-paris-to-cairo-disappears-from-r/index.html</link>
+            <link>https://thegrid.ai/egyptair-flight-804/egyptair-flight-ms804-from-paris-to-cairo-disappears-from-r/index.html</link>
             <guid isPermaLink="false">f1ad44f5-f3f4-4c86-aff4-e508b3082ccc</guid>
             <pubDate>Thu, 19 May 2016 06:47:41 GMT</pubDate>
         </item>
