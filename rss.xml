@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EgyptAir Flight 804]]></title>
+        <description><![CDATA[EgyptAir Flight 804]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 06:48:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EgyptAir Flight MS804 from Paris to Cairo 'disappears from radar']]></title>
+            <description><![CDATA[<article><h1>EgyptAir Flight MS804 from Paris to Cairo 'disappears from radar'</h1><p>http://www.bbc.com/news/world-middle-east-36309492</p></article>]]></description>
+            <link>undefinedegyptair-flight-ms804-from-paris-to-cairo-disappears-from-r/index.html</link>
+            <guid isPermaLink="false">f1ad44f5-f3f4-4c86-aff4-e508b3082ccc</guid>
+            <pubDate>Thu, 19 May 2016 06:47:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
